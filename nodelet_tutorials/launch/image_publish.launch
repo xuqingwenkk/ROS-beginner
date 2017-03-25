@@ -1,6 +1,0 @@
-<launch>
-  <node pkg="rosbag" type="play" name="player" output="screen" args="/home/robotqw/test1.bag --pause" />
-  
-  <node pkg="image_transport" type="republish" name="republish" args="compressed in:=/camera/image raw out:=/image_raw" />
-
-</launch>
