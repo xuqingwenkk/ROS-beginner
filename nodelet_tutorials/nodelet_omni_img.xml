@@ -1,0 +1,7 @@
+<library path="lib/libnodelet_omni_img">
+  <class name="nodelet_omni_image_cut/OmniImgCut" type="nodelet_omni_image_cut::OmniImgCut" base_class_type="nodelet::Nodelet">
+    <description> 
+      A node to test nodelet.
+    </description>
+  </class>
+</library>

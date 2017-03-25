@@ -1,0 +1,7 @@
+<library path="lib/libnodelet_img">
+  <class name="nodelet_image_cut/ImgCut" type="nodelet_image_cut::ImgCut" base_class_type="nodelet::Nodelet">
+    <description> 
+      A node to test nodelet.
+    </description>
+  </class>
+</library>
